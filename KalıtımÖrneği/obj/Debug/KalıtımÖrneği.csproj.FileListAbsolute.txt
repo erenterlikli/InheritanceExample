@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\bin\Debug\KalıtımÖrneği.exe.config
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\bin\Debug\KalıtımÖrneği.exe
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\bin\Debug\KalıtımÖrneği.pdb
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.Form1.resources
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.Properties.Resources.resources
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.exe
+C:\Users\Eren\source\repos\KalıtımÖrneği\KalıtımÖrneği\obj\Debug\KalıtımÖrneği.pdb
